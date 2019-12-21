@@ -1,4 +1,6 @@
 KHLNews\Application.class
-KHLNews\CORSFilter.class
 KHLNews\SomeTextGetting.class
 KHLNews\FirstController.class
+KHLNews\CORSFilter.class
+KHLNews\jMorf.class
+KHLNews\VectorizeText.class

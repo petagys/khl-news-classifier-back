@@ -23,6 +23,7 @@ public class FirstController {
         //System.out.println(json.getString("someInput"));
         //return json.getString("someInput");
         System.out.println(someTextGetting.getSomeText());
+
         return SomeTextGetting.reverseString(someTextGetting.getSomeText());
     }
 }
