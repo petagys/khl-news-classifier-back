@@ -4,8 +4,14 @@ import ru.textanalysis.tawt.jmorfsdk.JMorfSdk;
 import ru.textanalysis.tawt.jmorfsdk.loader.JMorfSdkFactory;
 import ru.textanalysis.tawt.ms.grammeme.MorfologyParameters;
 import ru.textanalysis.tawt.ms.internal.IOmoForm;
+import weka.classifiers.Classifier;
+import weka.core.SerializationHelper;
 
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public class VectorizeText {
@@ -14,7 +20,7 @@ public class VectorizeText {
     private final ArrayList<String> filteredWords;
     private static JMorfSdk jMorfSdk;
 
-    public VectorizeText(String text){
+    public VectorizeText(String text) throws Exception{
         this.text = text;
         words = new ArrayList<>();
         filteredWords = new ArrayList<>();
@@ -46,7 +52,7 @@ public class VectorizeText {
         System.out.println(filteredWords);
     }
 
-    public List<String> getFilteredWords(){
+    public ArrayList<String> getFilteredWords(){
         return filteredWords;
     }
 
