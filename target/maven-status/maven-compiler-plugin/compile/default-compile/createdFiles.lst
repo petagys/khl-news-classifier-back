@@ -1,6 +1,8 @@
 KHLNews\Application.class
 KHLNews\SomeTextGetting.class
 KHLNews\FirstController.class
+KHLNews\Classificatorer.class
 KHLNews\CORSFilter.class
-KHLNews\jMorf.class
+KHLNews\TextClasses$1.class
+KHLNews\TextClasses.class
 KHLNews\VectorizeText.class

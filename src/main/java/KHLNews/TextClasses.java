@@ -1,8 +1,8 @@
 package KHLNews;
 
 public enum TextClasses {
-    hockeyNews,
-    notHockeyNews;
+    notHockeyNews,
+    hockeyNews;
 
 
     public static String getRussianClassName(TextClasses textClass){

@@ -33,6 +33,6 @@ public class FirstController {
 //        System.out.println(someTextGetting.getSomeText());
         VectorizeText vecText = new VectorizeText(someTextGetting.getSomeText());
         TextClasses textClass = classificatorer.getClass(vecText.getFilteredWords());
-        return "SomeTextGetting.reverseString(someTextGetting.getSomeText())";
+        return TextClasses.getRussianClassName(textClass);
     }
 }

@@ -29,7 +29,7 @@ public class VectorizeText {
     }
 
     public void vectorizeTextFunc(){
-        text = text.toLowerCase().replaceAll("[.,\\/#!\\?$%\\^&\\*;:{}=_`~()«»\\d]", "");
+        text = text.toLowerCase().replaceAll("[.,\\/#!\\?$%\\^&\\*;:{}=_`~()«»]", "");
         System.out.println(text);
 
         String [] badWords = text.split("\\s+");
