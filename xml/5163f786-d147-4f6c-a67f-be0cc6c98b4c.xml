@@ -1,0 +1,8 @@
+<doc>
+  <category auto="true" type="str" verify="true"><![CDATA[Новости]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[Дмитрий Нестеров]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Кубок Гагарина на родине первого космонавта]]></title>
+  <source auto="true" type="str" verify="true"><![CDATA[https://www.khl.ru/news/2019/03/09/434792.html]]></source>
+  <keywords auto="true" type="str" verify="true"><![CDATA[#Кубок Гагарина]]></keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[]]></text>
+</doc>

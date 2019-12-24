@@ -1,0 +1,8 @@
+<doc>
+  <category auto="true" type="str" verify="true"><![CDATA[Трансферные новости]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[Пресс-служба КХЛ]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Шумаков пополнил состав «Авангарда»]]></title>
+  <source auto="true" type="str" verify="true"><![CDATA[https://www.khl.ru/news/2018/12/19/422513.html]]></source>
+  <keywords auto="true" type="str" verify="true"><![CDATA[#трансферы, #Сергей Шумаков]]></keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[«Авангард» и ЦСКА произвели обмен, по которому «ястребы» получили права на нападающего Сергея Шумакова в обмен на денежную компенсацию. Позже с ним был заключен трёхлетний контракт.]]></text>
+</doc>

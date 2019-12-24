@@ -1,0 +1,8 @@
+<doc>
+  <category auto="true" type="str" verify="true"><![CDATA[Трансферные новости]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[СКА (Санкт-Петербург)]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Рыков перешёл в «Сочи»]]></title>
+  <source auto="true" type="str" verify="true"><![CDATA[https://www.khl.ru/news/2018/10/05/410639.html]]></source>
+  <keywords auto="true" type="str" verify="true"><![CDATA[#трансферы, #Егор Рыков]]></keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[СКА и ХК «Сочи» произвели обмен, по которому в Сочи отправился защитник Егор Рыков, а петербуржцы получили права на голкипера Ивана Просветова.]]></text>
+</doc>

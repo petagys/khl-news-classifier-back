@@ -1,0 +1,8 @@
+<doc>
+  <category auto="true" type="str" verify="true"><![CDATA[Трансферные новости]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[Пресс-служба КХЛ]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Бойчак снова в списке отказов]]></title>
+  <source auto="true" type="str" verify="true"><![CDATA[https://www.khl.ru/news/2018/11/11/416084.html]]></source>
+  <keywords auto="true" type="str" verify="true"><![CDATA[#трансферы, #Зак Бойчак]]></keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[«Северсталь» поместила форварда Зака Бойчака в список во второй раз за восемь дней. В текущем сезоне канадец набрал 4 (2+2) очка в 25 матчах.]]></text>
+</doc>

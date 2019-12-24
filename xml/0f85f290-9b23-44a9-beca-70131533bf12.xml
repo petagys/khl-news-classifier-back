@@ -1,0 +1,8 @@
+<doc>
+  <category auto="true" type="str" verify="true"><![CDATA[Трансферные новости]]></category>
+  <author auto="true" type="str" verify="true"><![CDATA[Динамо (Минск)]]></author>
+  <title auto="true" type="str" verify="true"><![CDATA[Блум стал игроком минского «Динамо»]]></title>
+  <source auto="true" type="str" verify="true"><![CDATA[https://www.khl.ru/news/2018/11/14/416504.html]]></source>
+  <keywords auto="true" type="str" verify="true"><![CDATA[#трансферы, #Джонатон Блум]]></keywords>
+  <text auto="true" type="str" verify="true"><![CDATA[Минское «Динамо» заключило однолетний контракт с защитником Джонатоном Блумом.]]></text>
+</doc>
