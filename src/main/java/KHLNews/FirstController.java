@@ -23,10 +23,10 @@ public class FirstController {
     }
 
     @RequestMapping(value = "/getArticles/notHockey", method = RequestMethod.GET)
-    public ArrayList<Article> greetingNotHockey() {
+    public List<Article> greetingNotHockey() {
         ArticlesList articles = new ArticlesList();
 
-        ArrayList<Article> fileNames = (ArrayList<Article>) articles.readDirectory("notHockey");
+        List<Article> fileNames = articles.readDirectory("notHockey");
         return fileNames;
     }
 
