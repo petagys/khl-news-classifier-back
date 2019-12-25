@@ -1,7 +1,10 @@
-C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\SomeTextGetting.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\models\Article.java
 C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\Application.java
-C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\CORSFilter.java
-C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\TextClasses.java
-C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\Classificatorer.java
-C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\VectorizeText.java
-C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\FirstController.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\corsFilter\CORSFilter.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\services\ArticlesListService.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\controllers\ClassificatorController.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\services\ClassificatorerService.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\services\FilterTextService.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\controllers\ArticlesController.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\models\SomeTextGetting.java
+C:\Users\Гусевы\Desktop\khl-news-classifier-back\src\main\java\KHLNews\models\TextClasses.java
