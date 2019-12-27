@@ -11,14 +11,14 @@ import java.util.List;
 @RestController
 public class ArticlesController {
     @RequestMapping(value = "/getArticles/hockey", method = RequestMethod.GET)
-    public List<Article> greetingHockey() {
+    public List<Article> articlesHockey() {
         ArticlesListService articles = new ArticlesListService();
         List<Article> fileNames = articles.readDirectory("hockey");
         return fileNames;
     }
 
     @RequestMapping(value = "/getArticles/notHockey", method = RequestMethod.GET)
-    public List<Article> greetingNotHockey() {
+    public List<Article> articlesNotHockey() {
         ArticlesListService articles = new ArticlesListService();
 
         List<Article> fileNames = articles.readDirectory("notHockey");
